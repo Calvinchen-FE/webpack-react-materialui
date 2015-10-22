@@ -6,7 +6,6 @@ webpack
 npm install webpack -g
 ```
 
-[参照grunt官网](http://webpack.github.io/docs/installation.html)
 
 index.html
 ```sh
@@ -51,7 +50,11 @@ npm react
 ```sh
 npm material-ui
 ```
-
+启动server
+```sh
+webpack-dev-server
+```
 
 
 [参照https://github.com/callman/material-ui](https://github.com/callemall/material-ui)
+[参照https://github.com/ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos)
