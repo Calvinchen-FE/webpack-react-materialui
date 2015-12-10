@@ -45,10 +45,10 @@ module.exports = {
 添加react和material-ui
 
 ```sh
-npm react
+npm install react
 ```
 ```sh
-npm material-ui
+npm install material-ui
 ```
 启动server
 ```sh
